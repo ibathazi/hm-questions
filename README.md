@@ -32,5 +32,6 @@ Testcase 1:
              Input: [9, 11, 8, 5, 7, 10]
 Output: 6 since you could buy the stock at 11 dollars and sell it at 5 dollars.
 
-test results:
+#### test results:
+
 ![image](https://github.com/ibathazi/highmark-interview/assets/41767606/0df141f4-bfd7-4674-b93a-58dc487c1428)
